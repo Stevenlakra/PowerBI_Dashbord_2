@@ -31,6 +31,10 @@ To deliver an interactive Power BI tool that:
 6. Screenshots
 <img width="575" height="322" alt="Snapshot_UPI_PBI_1" src="https://github.com/user-attachments/assets/f66a59d0-8869-40c2-9ab7-2a3a9639d9fa" />
 
+
+
+
+
 <img width="577" height="322" alt="Snapshot_UPI_PBI_2" src="https://github.com/user-attachments/assets/bde3debc-0074-45b3-8a77-1838e4d03576" />
 
 
